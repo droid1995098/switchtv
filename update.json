@@ -1,5 +1,5 @@
 {
-  "VersionCode": 1,
+  "VersionCode": 0.9,
   "ModifyContent": "\r\n1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
   "DownloadUrl": "https://github.com/droid1995098/switchtv/raw/master/switchtv.1.01.apk"
 }
