@@ -1,5 +1,5 @@
 {
-  "VersionCode": 1.3,
-  "ModifyContent": "1.Enable new app icon\r\n2.Fix ffmovies.ru(fmovies.to) link issue\r\n3.Update video player to new versiopn",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.1.3.apk?raw=true"
+  "VersionCode": 1.4,
+  "ModifyContent": "1.Update video player to new version\r\n2.new function:adjust volume and brightness with gesture\r\n3.new function:control playback with gesture,like fastward and backward4.Fix 5movies.to(movies and TV shows) link issue\r\n",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.1.4.apk?raw=true"
 }
