@@ -1,5 +1,5 @@
 {
-  "VersionCode": 1.5,
-  "ModifyContent": "1.Add movie site - 123movieshd.sc,enjoy the new movie channel!\r\n2.Enable cloudflare bypass to avoid anti-robot mechanism of some movie websites",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.1.5.apk?raw=true"
+  "VersionCode": 1.9,
+  "ModifyContent": "1.Fix yesmovies issue,now you can watch all the YESMOVIES movies without any problem\r\n2.Fix openload video links",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.1.9.apk?raw=true"
 }
