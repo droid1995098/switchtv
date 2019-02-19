@@ -1,5 +1,5 @@
 {
-  "VersionCode": 1.9,
-  "ModifyContent": "1.Fix yesmovies issue,now you can watch all the YESMOVIES movies without any problem\r\n2.Fix openload video links",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.1.9.apk?raw=true"
+  "VersionCode": 3.3,
+  "ModifyContent": "1.Its version 3.3 now!\r\n2.Fix yesmovies.to issue\r\n3.Fix primewire.site issue(primewire.ink now)\r\n3.Fix harpy.tv video play issue",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.3.3.apk?raw=true"
 }
