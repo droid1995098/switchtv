@@ -1,5 +1,5 @@
 {
-  "VersionCode": 3.5,
-  "ModifyContent": "1.This is a very important update!\r\n2.Fix openload playback issue\r\n3.Fix yesmovies.to issue,enjoy all the movies of YESMOVIES",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.3.5.apk?raw=true"
+  "VersionCode": 3.6,
+  "ModifyContent": "1.Its 3.6 version now\r\n2.Fix video player DURATION display error\r\n3.Fix fmovies issue",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.3.6.apk?raw=true"
 }
