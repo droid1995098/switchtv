@@ -1,5 +1,5 @@
 {
-  "VersionCode": 3.6,
-  "ModifyContent": "1.Its 3.6 version now\r\n2.Fix video player DURATION display error\r\n3.Fix fmovies issue",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.3.6.apk?raw=true"
+  "VersionCode": 4.1,
+  "ModifyContent": "1.Its 4.1 version now\r\n2.Fix Streamango playback error\r\n3.Add solarmoviehd.ru channel\r\n4.Fix app crashes when searching video links",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.4.1.apk?raw=true"
 }
