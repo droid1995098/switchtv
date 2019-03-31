@@ -1,6 +1,6 @@
 
 {
-  "VersionCode": 1.1,
+  "VersionCode": 0.9,
   "ModifyContent": "1.Its 4.1 version now\r\n2.Fix Streamango playback error\r\n3.Add solarmoviehd.ru channel\r\n4.Fix app crashes when searching video links",
   "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.4.1.apk?raw=true"
 }
