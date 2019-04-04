@@ -1,5 +1,5 @@
 {
-  "VersionCode": 4.1,
-  "ModifyContent": "1.Its 4.1 version now\r\n2.Fix Streamango playback error\r\n3.Add solarmoviehd.ru channel\r\n4.Fix app crashes when searching video links",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.4.1.apk?raw=true"
+  "VersionCode": 4.2,
+  "ModifyContent": "1.Its 4.2 version now\r\n2.Fix Openload playback error,this is very important updates\r\n3.Fix some ffmovies video links\r\n4.Fix solarmoviehd index",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.4.2.apk?raw=true"
 }
