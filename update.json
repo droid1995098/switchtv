@@ -1,5 +1,5 @@
 {
-  "VersionCode": 4.2,
-  "ModifyContent": "1.Its 4.2 version now\r\n2.Fix Openload playback error,this is very important updates\r\n3.Fix some ffmovies video links\r\n4.Fix solarmoviehd index",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.4.2.apk?raw=true"
+  "VersionCode": 4.3,
+  "ModifyContent": "1.Its 4.3 version now\r\n2.Fix ffmovies.ru index issue and fix ffmovies.ru video links,this is very important updates\r\n3.Fix some solarmoviehd links",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.4.3.apk?raw=true"
 }
