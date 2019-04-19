@@ -1,5 +1,5 @@
 {
-  "VersionCode": 2,
+  "VersionCode": 0.9,
   "ModifyContent": "1.Its 4.5 version now\r\n2.Fix ffmovies.ru index issue and fix ffmovies.ru video links,this is very important updates\r\n3.Fix some solarmoviehd links",
   "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.4.5.apk?raw=true"
 }
