@@ -1,5 +1,5 @@
 {
-  "VersionCode": 5.4,
-  "ModifyContent": "1.Its 5.4 version now\r\n2.Fix solarmoviehd.ru index issue\r\n3.Add new video host,clipwatching.com,verystream.com\r\n4.Fix video host vidlox.me issue",
-  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.5.4.apk?raw=true"
+  "VersionCode": 5.7,
+  "ModifyContent": "1.Its 5.7 version now\r\n2.Fix 5movies.to movie poster issue\r\n",
+  "DownloadUrl": "https://github.com/droid1995098/switchtv/blob/master/switchtv.5.7.apk?raw=true"
 }
